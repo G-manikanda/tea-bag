@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tea-bag/static/css/main.481b9e5f.css",
+    "main.js": "/tea-bag/static/js/main.0c9d2127.js",
+    "index.html": "/tea-bag/index.html",
+    "main.481b9e5f.css.map": "/tea-bag/static/css/main.481b9e5f.css.map",
+    "main.0c9d2127.js.map": "/tea-bag/static/js/main.0c9d2127.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.481b9e5f.css",
+    "static/js/main.0c9d2127.js"
+  ]
+}
